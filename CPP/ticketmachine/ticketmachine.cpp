@@ -1,10 +1,5 @@
+// ticketmachine.cpp: 定义控制台应用程序的入口点。
+//
+
 #include "stdafx.h"
 #include "ticket.h"
-
-int main()
-{
-	ticket t;
-	t.showBalance();
-	system("pause");
-    return 0;
-}
